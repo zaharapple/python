@@ -30,3 +30,4 @@ elif what == 3:
     print(peresechenie)
 else:
     print('Неверная команда')
+
