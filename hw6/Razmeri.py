@@ -7,7 +7,7 @@ razmeri_chisla = list(XXS.values())
 otvet = []
 razmeri_keys = list(XXS.keys())
 
-input_comand = my_comand[input()]
+input_comand = my_comand[input("Введите размер: ").upper()]
 input_comand = int(input_comand)
 
 
