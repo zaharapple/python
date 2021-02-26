@@ -1,0 +1,73 @@
+h1{
+	size: 250px;
+}
+#osnovn{
+    background: coral;
+	width: calc(100% - 400px);
+	height: 700px;
+	margin: 0 auto;
+	border: 2px	solid grey;
+	position: relative;
+    overflow: hidden;
+}
+.lyt {
+    color: aqua;
+	position: absolute;
+	top: 35%;
+	left: 13%;
+}
+.hyd{
+	position: absolute;
+	top: 45%;
+	left: 14%;
+}
+.hood{
+	color: darkred;
+	position: absolute;
+	top: 37%;
+	left: 19%;
+	font-size: 50px;
+
+}
+.good{
+	color: chartreuse;
+	position: absolute;
+	top: 37%;
+	left: 28%;
+	font-size: 50px;
+
+
+
+}
+.knopka{
+	color: chartreuse;
+	position: absolute;
+	top: -1%;
+	left: 4%;
+
+}
+.oy{
+	color: honeydew;
+	position: absolute;
+	font-size: 75px;
+	top: 12%;
+	left: 30%;
+}
+.oy2{
+	color: honeydew;
+	position: absolute;
+	font-size: 75px;
+	top: 12%;
+	left: 15%;
+}
+#zastavka{
+	background: #f7f4ed;
+    background-image: url(img/A-level-Banner.gif);
+    background-size: 441px 253px;
+    width: 440px;
+    height: 245px;
+    margin: 0 auto;
+    border: 2px solid grey;
+    position: relative;
+    overflow: hidden;
+}
